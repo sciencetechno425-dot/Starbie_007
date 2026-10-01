@@ -20,7 +20,7 @@
 | [0.1 µF capacitor](https://robu.in/product/0402x104k160ct-walsin-smd-multilayer-ceramic-capacitor-0-1-%c2%b5f-16-v-0402-1005-metric-%c2%b1-10-x5r-walsin-mlcc/) | Power filtering | 5 | $0.01 | $0.05 | [Robu.in](https://robu.in/product/0402x104k160ct-walsin-smd-multilayer-ceramic-capacitor-0-1-%c2%b5f-16-v-0402-1005-metric-%c2%b1-10-x5r-walsin-mlcc/) |
 | [Pcb board](https://robu.in/product/double-side-1520cm-thickness-15mm-fr4-glass-fiber-blank-copper-clad-printed-circuit-board-universal-prototype-pcb/) | For connection | 1 | $2.00 | $2.00 | [Robu.in](https://robu.in/product/double-side-1520cm-thickness-15mm-fr4-glass-fiber-blank-copper-clad-printed-circuit-board-universal-prototype-pcb/) |
 | **Parts subtotal** | — | — | — | **$10.74** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$10.74** | — |
+| **Tax & shipping** | — | — | — | **$5.00** | — |
+| **Total** | — | — | — | **$15.74** | — |
 
-$19.26 left of the tier's funding.
+$14.26 left of the tier's funding.
