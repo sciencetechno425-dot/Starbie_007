@@ -20,7 +20,7 @@
 | [MX mechanical switches](https://share.google/eJwc7YqMzZPTBo4dj) | Project | 1 | $1.44 | $1.44 | [Amazon](https://share.google/eJwc7YqMzZPTBo4dj) |
 | [Custom PCB](https://jlcpcb.com/?utm_source=chatgpt.com) | Project | 1 | $5.00 | $5.00 | [JLC pcb](https://jlcpcb.com/?utm_source=chatgpt.com) |
 | **Parts subtotal** | — | — | — | **$26.55** | — |
-| **Tax & shipping** | — | — | — | **$3.45** | — |
-| **Total** | — | — | — | **$30.00** | — |
+| **Tax & shipping** | — | — | — | **$3.40** | — |
+| **Total** | — | — | — | **$29.95** | — |
 
-**$0.00 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$0.05 left of the tier's funding.
