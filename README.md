@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/08ac6949-e78b-4e37-bd8b-4919087a8c29" />
+
 # STARBiE 🌱
 
 ### Smart Plant & Environmental Monitor
@@ -189,3 +191,4 @@ Possible future versions could include:
 This project is created as an educational and experimental hardware project.
 
 **Made with curiosity, electronics, and a goal of building smarter technology. 🌱⚡**
+
