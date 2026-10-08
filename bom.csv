@@ -1,0 +1,9 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"TILT1",1," Tilt Sensor"
+"U3",1,"MCP23008-based, 32 (0x20) LCD 16 x 2 (I2C)"
+"SEN4",1," Soil Moisture Sensor"
+"9",1," Breadboard Mini"
+"S1",1," Pushbutton"
+"R6",1,"10 kΩ Resistor"
+"U4",1," Temperature Sensor [TMP36]"
