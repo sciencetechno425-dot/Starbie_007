@@ -34,8 +34,6 @@ Today I worked on my Starbie project in Tinkercad. I built and tested the Arduin
 
 ![Screenshot 2026-10-07 160536](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/q9mAT1otQc7SOvJ2lRQM0VofdvLvxiNo/9b930a0127ea5eaa7cda61c66bdf0ea0c200943d950d29abb927071574fba456.png)
 
-![file_00000000f71081fab03baa7b943ad18c](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/q9mAT1otQc7SOvJ2lRQM0VofdvLvxiNo/5964568ea1a789546b485a549bf539046b03ff43c1b356bcea92888429e33402.png)
-
 ### 2026-10-08 – Today, we worked on STARBiE by simplifying the project and selecting only the most useful features. We finalized temperature and soil-moisture monitoring, health scoring, alerts, recommendations, tren
 
 **14h**
