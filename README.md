@@ -1,3 +1,3 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/08ac6949-e78b-4e37-bd8b-4919087a8c29" />
+<img width="1536" height="1024" alt="image" src="https://github.com/sciencetechno425-dot/Starbie_007/blob/main/IMG20261008120454.jpg" />
 
 STARBiE is an Arduino-based system used for plant monitoring that assists in tracking temperature and soil moisture. This system shows current data on the LCD screen, performs analysis of plant conditions, gives alarm notifications and watering advice, and senses any tilting of the device. Besides, it saves the information about tilting in the EEPROM memory, and one button controls the display of different screen pages. The idea of the system is to transform raw data into useful information.
