@@ -44,8 +44,6 @@ Today, we worked on STARBiE by simplifying the project and selecting only the mo
 
 ![IMG20261008144024](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/q9mAT1otQc7SOvJ2lRQM0VofdvLvxiNo/09a116b310ccc2076876dc0ea75b4d35d004f632e669414088af2abe1236da42.jpg)
 
-![IMG20261008144005](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/q9mAT1otQc7SOvJ2lRQM0VofdvLvxiNo/40d964111aa9c26ebcb502e5503bdf3d8ac24997fa390647c3a738d72be2835f.jpg)
-
 ![IMG20261008121531](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/q9mAT1otQc7SOvJ2lRQM0VofdvLvxiNo/e8a891b86ab102fa0c1032d683938c5d86dcb84d80aa44c51ca02bd5f862f161.jpg)
 
 ![image-1791441788010](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/q9mAT1otQc7SOvJ2lRQM0VofdvLvxiNo/ba561f18aa8bcf5a593c01d2d1c3343fa39f6e24650cd460b28a270658260ec2.jpg)
